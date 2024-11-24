@@ -17,6 +17,6 @@ public class Main {
         }
         //新增功能1
         System.out.println("新增功能1");
-
+        System.out.println("新增功能2");
     }
 }
